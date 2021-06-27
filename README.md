@@ -1,2 +1,2 @@
-# stats101
-Repository for basic studies and presentations on statistics.
+# Statisticts 101
+Repository dedicated for basic studies and some presentations on statistics.
